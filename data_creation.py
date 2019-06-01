@@ -1,3 +1,6 @@
+* linguist-vendored
+*.py linguist-vendored=false
+
 #!/usr/bin/env python
 # coding: utf-8
 
